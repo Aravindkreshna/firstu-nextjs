@@ -62,7 +62,7 @@ const mailchimp = {
         mask: 'topRight',           // none | cursor | topLeft | topRight | bottomLeft | bottomRight
         gradient: {
             display: true,
-            opacity: 0.6            // 0 - 1
+            opacity: 1            // 0 - 1
         },
         dots: {
             display: false,
